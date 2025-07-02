@@ -68,7 +68,7 @@
 
     <h2>Skills</h2>
     <div class="skill">CapCut</div>
-    <div class="skill">C Programming</div>
+  
     <div class="skill">Python</div>
     <div class="skill">Photo Editing</div>
     <div class="skill">Video Editing</div>
